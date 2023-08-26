@@ -1,0 +1,14 @@
+.wrapper {
+    width: max-content;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.accaunt {
+    display: flex;
+    align-items: center;
+
+}
